@@ -10,7 +10,7 @@
 - [@AdrienLePoulpe](https://github.com/adrien99920)
 - [@Rémy](https://github.com/SLATTY54)
 - [@drmolixcool](https://github.com/drmolixcool)
-- [@Yghore](https://github.com/Yghore))
+- [@Yghore](https://github.com/Yghore)
 - [@Samuel](https://github.com/Leonarddoo)
 
 # Ergazia Blog's
