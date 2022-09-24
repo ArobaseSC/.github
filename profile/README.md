@@ -9,7 +9,7 @@
 
   [Organisation](https://github.com/ArobaseSc)
 
-  - [@Ergazia](https://github.com/Inerska)
+  - [@Ergazia "Alexis Chân GRIDEL"](https://github.com/Inerska)
   - [@Florian](https://github.com/Florian99920)
   - [@AdrienLePoulpe](https://github.com/adrien99920)
   - [@Rémy](https://github.com/SLATTY54)
@@ -17,6 +17,6 @@
   - [@Yghore](https://github.com/Yghore)
   - [@Samuel](https://github.com/Leonarddoo)
 
-  # Ergazia Blog's
+  # Blogs
   [Alexis Chan GRIDEL's Blog](https://agdl.dev)
 </p>
