@@ -1,6 +1,7 @@
 <p align="center">
-  ![Arobase's logotype](https://avatars.githubusercontent.com/u/109959406)
-
+  <img src="https://avatars.githubusercontent.com/u/109959406" alt="Arobase's logotype"/>
+                                                                    
+                                                                   
   # Mail
   - arobase.corp@gmail.com
 
