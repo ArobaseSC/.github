@@ -1,7 +1,8 @@
-**Mail**
+# Mail
 - arobase.corp@gmail.com
 
-**GitHub**
+# GitHub
+
 [Organisation](https://github.com/ArobaseSc)
 
 - [@Ergazia](https://github.com/Inerska)
@@ -12,5 +13,5 @@
 - [@Yghore](https://github.com/Yghore))
 - [@Samuel](https://github.com/Leonarddoo)
 
-**Ergazia Blog's**
+# Ergazia Blog's
 [Alexis Chan GRIDEL's Blog](https://agdl.dev)
